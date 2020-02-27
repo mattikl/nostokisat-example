@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nostokisat-example/static/css/main.29a6b099.chunk.css",
-    "main.js": "/nostokisat-example/static/js/main.2615473c.chunk.js",
-    "main.js.map": "/nostokisat-example/static/js/main.2615473c.chunk.js.map",
+    "main.js": "/nostokisat-example/static/js/main.39793cc4.chunk.js",
+    "main.js.map": "/nostokisat-example/static/js/main.39793cc4.chunk.js.map",
     "runtime-main.js": "/nostokisat-example/static/js/runtime-main.d819d755.js",
     "runtime-main.js.map": "/nostokisat-example/static/js/runtime-main.d819d755.js.map",
     "static/js/2.6a4f3681.chunk.js": "/nostokisat-example/static/js/2.6a4f3681.chunk.js",
     "static/js/2.6a4f3681.chunk.js.map": "/nostokisat-example/static/js/2.6a4f3681.chunk.js.map",
     "index.html": "/nostokisat-example/index.html",
-    "precache-manifest.30e36e6a85adc1eeca46a95c3cf8ae62.js": "/nostokisat-example/precache-manifest.30e36e6a85adc1eeca46a95c3cf8ae62.js",
+    "precache-manifest.1a8f4d60b0034de7afef71fed7048d47.js": "/nostokisat-example/precache-manifest.1a8f4d60b0034de7afef71fed7048d47.js",
     "service-worker.js": "/nostokisat-example/service-worker.js",
     "static/css/main.29a6b099.chunk.css.map": "/nostokisat-example/static/css/main.29a6b099.chunk.css.map",
     "static/js/2.6a4f3681.chunk.js.LICENSE.txt": "/nostokisat-example/static/js/2.6a4f3681.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d819d755.js",
     "static/js/2.6a4f3681.chunk.js",
     "static/css/main.29a6b099.chunk.css",
-    "static/js/main.2615473c.chunk.js"
+    "static/js/main.39793cc4.chunk.js"
   ]
 }
