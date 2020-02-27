@@ -5,7 +5,7 @@ function App() {
   const [results, setResults] = useState(null);
   useEffect(() => {
     if (results == null) {
-      fetch('/results.json')
+      fetch(`${process.env.PUBLIC_URL}/results.json`)
         .then(res => res.json())
         .then(data => setResults(data))
     }
