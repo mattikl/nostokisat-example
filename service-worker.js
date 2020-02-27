@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nostokisat-example/precache-manifest.dfc849d4ee4858bf2d56980d5a918280.js"
+  "/nostokisat-example/precache-manifest.30e36e6a85adc1eeca46a95c3cf8ae62.js"
 );
 
 self.addEventListener('message', (event) => {

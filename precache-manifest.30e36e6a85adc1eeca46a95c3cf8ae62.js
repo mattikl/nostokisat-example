@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c3f1504dbf86142b985782401053288",
+    "revision": "86dba55cf6d535f27237284a99119d33",
     "url": "/nostokisat-example/index.html"
   },
   {
-    "revision": "f4147fa049753185fba2",
+    "revision": "7325172d9dae4b44867f",
     "url": "/nostokisat-example/static/css/main.29a6b099.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nostokisat-example/static/js/2.6a4f3681.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4147fa049753185fba2",
-    "url": "/nostokisat-example/static/js/main.1c6e8f12.chunk.js"
+    "revision": "7325172d9dae4b44867f",
+    "url": "/nostokisat-example/static/js/main.2615473c.chunk.js"
   },
   {
     "revision": "583fe6af3c78466106ba",
