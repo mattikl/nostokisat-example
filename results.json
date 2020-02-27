@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-10",
+    "classes": [
+      {
+        "class": "71 kg",
+        "gender": "Naiset",
+        "results": [
+          {
+            "name": "Elli Esimerkki",
+            "birthyear": 1989,
+            "weight": 70.40,
+            "cnj": 80,
+            "snatch": 55
+          }
+        ]
+      },
+      {
+        "class": "89 kg",
+        "gender": "Miehet",
+        "results": [
+          {
+            "name": "Niilo Nostaja",
+            "birthyear": 1989,
+            "weight": 86.2,
+            "cnj": 115,
+            "snatch": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2020-02-11",
+    "classes": [
+      {
+        "class": "89 kg",
+        "gender": "Miehet",
+        "results": [
+          {
+            "name": "Niilo Nostaja",
+            "birthyear": 1989,
+            "weight": 85.55,
+            "cnj": 120,
+            "snatch": 88
+          },
+          {
+            "name": "Kalle Kokeilija",
+            "birthyear": 1960,
+            "weight": 84.20,
+            "cnj": 60,
+            "snatch": 35
+          }
+        ]
+      }
+    ]
+  }
+]
